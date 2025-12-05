@@ -217,7 +217,7 @@ If you need help extending the project, I can generate the next sections too.
 
 ## 🏷 Author
 
-**Siva**
+**M. Siva Narayana Surya Chandra**
 Machine Learning & Computer Vision Enthusiast
 Passionate about understanding ML algorithms from the ground up.
 
