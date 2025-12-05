@@ -220,6 +220,7 @@ If you need help extending the project, I can generate the next sections too.
 **Siva**
 Machine Learning & Computer Vision Enthusiast
 Passionate about understanding ML algorithms from the ground up.
+
 **Contact :** sivanarayanam27@gmail.com
 
 ---
