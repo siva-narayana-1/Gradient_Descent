@@ -1,10 +1,3 @@
-Here is a **polished, professional, industry-standard README.md** designed specifically for GitHub.
-It looks clean, structured, and impressive for recruiters/interviewers.
-
-You can copy–paste directly into GitHub **AS IS**.
-
----
-
 # 📘 Gradient Descent From Scratch — Machine Learning Fundamentals
 
 A fully manual implementation of **Linear Regression using Gradient Descent** without any machine learning libraries.
@@ -223,6 +216,3 @@ Passionate about understanding ML algorithms from the ground up.
 
 **Contact :** sivanarayanam27@gmail.com
 
----
-
-If you want a **GitHub description**, **project thumbnail**, or **badge icons**, just say **“add badges”** or **“add GitHub description”**.
